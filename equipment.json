@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Lasgun",
+    "category": "Weapon"
+  },
+  {
+    "name": "Autogun",
+    "category": "Weapon"
+  },
+  {
+    "name": "Knife",
+    "category": "Weapon"
+  },
+  {
+    "name": "Flak Armour",
+    "category": "Armour"
+  },
+  {
+    "name": "Medkit",
+    "category": "Gear"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Awareness",
+    "characteristic": "Perception",
+    "type": "General"
+  },
+  {
+    "name": "Dodge",
+    "characteristic": "Agility",
+    "type": "Defence"
+  },
+  {
+    "name": "Medicae",
+    "characteristic": "Intelligence",
+    "type": "Fieldcraft"
+  },
+  {
+    "name": "Security",
+    "characteristic": "Intelligence",
+    "type": "Tech"
+  },
+  {
+    "name": "Stealth",
+    "characteristic": "Agility",
+    "type": "Fieldcraft"
+  }
+]
